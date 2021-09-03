@@ -1,0 +1,19 @@
+{
+  "name": "plac",
+  "version": "1.0.0",
+  "description": "Web app for reservation of different places, based on beachvolley courts.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nejcselan19/plac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nejcselan19/plac/issues"
+  },
+  "homepage": "https://github.com/nejcselan19/plac#readme"
+}
